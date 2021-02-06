@@ -1,6 +1,6 @@
 # Input-Sanitization
 
-![image](https://www.codefactor.io/repository/github/KennyOliver/input-sanitization/badge)
+![image](https://www.codefactor.io/repository/github/KennyOliver/input-sanitization/badge?style=for-the-badge)
 
 Python Input Sanitizatiion
 

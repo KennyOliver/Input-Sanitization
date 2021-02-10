@@ -1,7 +1,7 @@
-# Input-Sanitization
+# input-sanitation
 
-![image](https://www.codefactor.io/repository/github/KennyOliver/input-sanitization/badge?style=for-the-badge)
+![image](https://www.codefactor.io/repository/github/KennyOliver/input-sanitation/badge?style=for-the-badge)
 
-Python Input Sanitizatiion
+Python Input Sanitatiion
 
 Kenny Oliver ©2021
